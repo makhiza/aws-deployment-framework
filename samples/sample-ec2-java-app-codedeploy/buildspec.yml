@@ -11,5 +11,7 @@ artifacts:
   discard-paths: yes
   files:
     - target/*
-    - scripts/*
+    - start.sh
+    - stop.sh
+    - validate.sh
     - appspec.yml
